@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: druid-1.0.9.jar
+Main-Class: com.ledongtech.test.druid.Druid_test
+

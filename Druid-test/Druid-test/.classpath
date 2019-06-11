@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/mysql-connector-java-5.1.13.jar"/>
+	<classpathentry kind="lib" path="src/com/ledongtech/test/druid/druid-1.0.9.jar" sourcepath="D:/apache-maven-3.3.9-bin/maven_rep/com/alibaba/druid/1.0.9/druid-1.0.9-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
